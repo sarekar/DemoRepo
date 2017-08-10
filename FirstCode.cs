@@ -2,6 +2,9 @@ My First Code for git
 
 function Main(){
 	console.log('Main started');
+	console.log('Main ended');
+}
+
 	// call testMessage()
 	testMessage();
 	
@@ -18,3 +21,4 @@ function Main(){
 		console.log('Congrats!');
 	}
 }
+
