@@ -20,5 +20,9 @@ function Main(){
 	function showSuccessMessage() {
 		console.log('Congrats!');
 	}
+
+	function showErrorMessage() {
+		console.log('Error!');
+	}
 }
 
